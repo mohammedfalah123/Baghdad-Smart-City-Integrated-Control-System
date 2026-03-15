@@ -1,3 +1,4 @@
+[![OpenSSF Baseline](https://www.bestpractices.dev/projects/12177/baseline)](https://www.bestpractices.dev/projects/12177)
 title: Baghdad Smart City Control System
 emoji: 🏙️
 colorFrom: blue
